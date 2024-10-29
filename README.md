@@ -4,7 +4,7 @@ CashBot is a Discord bot designed to integrate with Cash App, offering a seamles
 
 ## 🚨 Disclaimer 🚨
 
-- This project was crafted during my freshman year; it may contain bugs or be outdated with current APIs.
+- This project was crafted during my freshman year of high school; it may contain bugs or be outdated with current APIs.
 - There's a possibility it might not run smoothly out of the box.
 - This project is obviously no longer maintained.
 
